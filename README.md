@@ -8,7 +8,7 @@ The button:
 
 Find it in the components list:
 
-![logout buton in component list](/imgs/logoutbuttonComponent.png)
+![logout buton in component list](/imgs/logoutButtonComponent.png)
 
 this is how it looks like after draging it on a page
 ![sample on canvas](/imgs/dragOnCanvas.png)
